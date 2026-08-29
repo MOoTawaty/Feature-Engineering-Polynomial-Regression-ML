@@ -252,3 +252,6 @@ The model then uses Gradient Descent to learn the appropriate weights for these 
 In simple terms:
 
 Feature Engineering creates useful features → Polynomial Regression uses those features → Gradient Descent learns their weights → The model makes better predictions.
+
+### NOTE
+This project is a modefied laboratory exercise from the Machine Learning Specialization course provided by Andrew Ng on Coursera.org.
